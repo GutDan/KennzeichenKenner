@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">KennzeichenKenner</string>
+    <string name="arrow_tl_bar">↸</string>
+    <string name="arrow_back">←</string>
+    <string name="kennzeichen_kenner">Kennzeichen Kenner</string>
+    <string name="hint_qm">\???</string>
+    <string name="magnifying_glass">⌕</string>
+    <string name="bundesland">Bundesland:</string>
+    <string name="space" />
+    <string name="ableitung">Ableitung:</string>
+    <string name="links_und_quellen"><![CDATA[Links & Quellen]]></string>
+    <string name="map_layers">Karte wechseln</string>
+    <string name="links">Links</string>
+    <string name="quellen">Quellen</string>
+    <string name="zwischenablage">in Zwischenablage kopiert</string>
+
+    <string name="listekfz_link">https://de.wikipedia.org/wiki/Liste_der_Kfz-Kennzeichen_in_Deutschland</string>
+    <string name="listekfz">Liste der Kfz-Kennzeichen in Deutschland\nunter folgender Lizenz</string>
+
+    <string name="cc4_link">https://creativecommons.org/licenses/by-sa/4.0/legalcode.de</string>
+    <string name="cc4">CC BY-SA 4.0</string>
+
+    <string name="karte_link">https://de.wikipedia.org/wiki/Datei:Germany_adm_location_map.svg</string>
+    <string name="karte">Karte von NordNordWest (die gelb/blaue Version ist eine Abwandlung)\nunter folgender Lizenz</string>
+
+    <string name="cc3_link">https://creativecommons.org/licenses/by-sa/3.0/de/legalcode</string>
+    <string name="cc3">CC BY-SA 3.0 DE</string>
+
+    <string name="dstrip_link">https://commons.wikimedia.org/wiki/File:EU-section-with-D.svg</string>
+    <string name="dstrip">EU Streifen mit D (public domain)</string>
+
+    <string name="wikipedia_pre">https://de.wikipedia.org%s</string>
+
+    <string name="coords">Koordinaten von %s</string>
+
+
+</resources>
