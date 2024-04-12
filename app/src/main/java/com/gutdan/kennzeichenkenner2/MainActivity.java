@@ -2,7 +2,6 @@ package com.gutdan.kennzeichenkenner2;
 
 import android.animation.ArgbEvaluator;
 import android.animation.ValueAnimator;
-import android.app.ActionBar;
 import android.app.Activity;
 import android.content.ClipData;
 import android.content.ClipboardManager;
@@ -13,10 +12,6 @@ import android.os.Bundle;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.content.res.AppCompatResources;
-import androidx.appcompat.widget.Toolbar;
-import androidx.constraintlayout.widget.ConstraintLayout;
-import androidx.constraintlayout.widget.Constraints;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
@@ -41,12 +36,10 @@ import com.google.android.material.floatingactionbutton.ExtendedFloatingActionBu
 
 import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-import java.util.regex.Pattern;
 
 public class MainActivity extends AppCompatActivity {
 
